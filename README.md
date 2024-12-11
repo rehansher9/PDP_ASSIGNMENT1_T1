@@ -1,5 +1,5 @@
-# PDP_ASSIGNMENT1_T1
-Payment Analysis: Linear vs Parallel Processing
+**PDP_ASSIGNMENT1_T1**
+> **Payment Analysis: Linear vs Parallel Processing**
 This repository contains Python scripts to analyze student payment data and compute the most frequent payment days for each student. It includes two implementations: Linear Processing and Parallel Processing. The goal is to demonstrate how multiprocessing can significantly reduce computation time for large datasets.
 
 Features
